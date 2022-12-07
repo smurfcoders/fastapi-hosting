@@ -1,6 +1,6 @@
 # Fastapi-hosting
 Complete Guide for hosting fastapi. Below are the steps for hosting fastapi on aws ec2 and access it through anywhere on the internet.
-
+[Click here for complete video](https://youtu.be/_719QPPARUw)
 
 <h1 align="center">
   <a href="https://github.com/smurfcoders/fastapi-hosting">
@@ -34,7 +34,7 @@ Complete Guide for hosting fastapi. Below are the steps for hosting fastapi on a
 ### Prerequisites
 
 We assume that you have a amazon ec2 instance.
-In this [tutorial](https://www.youtube.com/channel/UCmkU-qYoP19uM3ueLyhxEMg) we have used ubuntu with [aws free tier](https://aws.amazon.com/free/) and instance type is t2.micro(1 gb ram).
+In this [tutorial]([https://www.youtube.com/channel/UCmkU-qYoP19uM3ueLyhxEMg](https://youtu.be/_719QPPARUw)) we have used ubuntu with [aws free tier](https://aws.amazon.com/free/) and instance type is t2.micro(1 gb ram).
 
 After you enter the instance by ssh or any other method update the instance first by using below command:
 
