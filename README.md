@@ -3,7 +3,7 @@ Complete Guide for hosting fastapi. Below are the steps for hosting fastapi on a
 
 
 <h1 align="center">
-  <a href="https://github.com/dec0dOS/amazing-github-template">
+  <a href="https://github.com/smurfcoders/fastapi-hosting">
     <img src="https://raw.githubusercontent.com/smurfcoders/fastapi-hosting/master/Smurf%20coders.jpg">
   </a>
 </h1>
