@@ -8,3 +8,4 @@ async def root():
 @app.get("/test")
 async def root():
     return {"message":"this is test"}
+    
