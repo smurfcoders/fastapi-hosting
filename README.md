@@ -1,5 +1,5 @@
 # Fastapi-hosting
-Complete Guide for hosting fastapi. Below are the steps for hosting fastapi on aws ec2 and access it through anywhere on the internet.
+Complete Guide for hosting fastapi. Below are the steps for hosting fastapi on aws ec2 and access it through anywhere on the internet.<br>
 [Click here for complete video](https://youtu.be/_719QPPARUw)
 
 <h1 align="center">
